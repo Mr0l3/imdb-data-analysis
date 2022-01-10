@@ -14,3 +14,6 @@ ___
 
 ### 3. Median of movie ratings by genre
 ![Median of movie ratings by genre analysis](images/3rd-analysis.png)
+
+### 4. Median of movie ratings by release year
+![Median of movie ratings by release year](images/4th-analysis.png)
