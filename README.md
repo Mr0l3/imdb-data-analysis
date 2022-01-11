@@ -17,3 +17,6 @@ ___
 
 ### 4. Median of movie ratings by release year
 ![Median of movie ratings by release year](images/4th-analysis.png)
+
+### 5. Number of titles premiered each year by genre
+![Number of titles premiered each year by genre](images/5th-analysis.png)
