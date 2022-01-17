@@ -20,3 +20,6 @@ ___
 
 ### 5. Number of titles premiered each year by genre
 ![Number of titles premiered each year by genre](images/5th-analysis.png)
+
+### 6. Average runtime by genre
+![Average runtime by genre](images/6th-analysis.png)
