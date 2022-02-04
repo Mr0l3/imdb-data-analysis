@@ -28,4 +28,4 @@
 ![Number of movies by country plot](images/7th-analysis.png)
 
 <h2>License</h2>
-This repository lies under the MIT License. See [LICENSE](https://github.com/Mr0l3/imdb-data-analysis/blob/main/LICENSE) for more information.
+This repository lies under the MIT License. See <a href="https://github.com/Mr0l3/imdb-data-analysis/blob/main/LICENSE">LICENSE</a> for more information.
