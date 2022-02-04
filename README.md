@@ -1,9 +1,10 @@
-# IMDB Data Analysis
-Basic analysis regarding the available IMDB data
+<h1 align="center">IMDB Data Analysis</h1>
+<p align="center"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" /></p>
 
-___
+<p align="center">Basic analysis regarding the available IMDB data</p>
+<br/>
 
-## Analysis made
+<h2 align="center">Analysis made</h2>
 
 ### 1. The most common content categories in IMDB
 ![Most common content categories analysis plot](images/1st-analysis.png)
@@ -25,3 +26,6 @@ ___
 
 ### 7. Number of movies by country
 ![Number of movies by country plot](images/7th-analysis.png)
+
+<h2>License</h2>
+This repository lies under the MIT License. See [LICENSE](https://github.com/Mr0l3/imdb-data-analysis/blob/main/LICENSE) for more information.
